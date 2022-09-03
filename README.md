@@ -42,3 +42,13 @@ The goal of this project is to develop a data warehouse solution using Azure Syn
   >**.Based on how many minutes the rider spends on a bike per month**
   >
 On the next page are instructions for logging in to an Azure account where we can configure the resources, Azure Synapse Workspace, and data storage to complete the project.
+
+## Project Environment
+In order to complete this project, you'll need to use these tools:
+
+>**1.Access to Microsoft Azure. Instructions for accessing an Azure account where we can create the resources necessary for the project.**
+>
+>**2.Python to run the script to load data into a PostgreSQL database on Azure to simulate your OLTP data source**
+>
+>**3.An editor to work with the Python and SQL scripts, we recommend Visual Studio Code**
+
